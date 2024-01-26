@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    background-color: black;
+
+}
+
+.barra{
+    background-color: rgb(78, 31, 22);
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    height: 100px;
+}
+  
+.pesq{
+    float:left;
+    background-color: rgb(119, 26, 26);
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border: none;
+    height:32px;
+    width:260px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.log{
+    width: 70px;
+    height: 70px;
+    padding: 15px;
+}
+
+.pes{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+}
+
+.car{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+}
+
+.promo{
+    text-align: center;
+    background-color: rgb(19, 18, 18);
+    margin: 0;
+}
+
+.prom{
+    width: 1000px;
+    height: 450px;
+}
+
+.produtos{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+.desc{
+   color: white; 
+   text-align: center;
+}
+
+.preco{
+    text-align: center;
+    color: #33ce0d;
+    font-size: 30px;
+}
+
+.imgi{
+    border-radius: 10%;
+}
+
+.produtos1{
+    margin: 35px;
+}
+
+.textos{
+    color: white;
+}
+
+.cads{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin: 200px;
+    font-size: 30px;
+}
+
+.butao{
+    color: white;
+    background-color: #33ce0d;
+    border-radius: 10px;
+}
+
+.botao{
+    color: white;
+    background-color: #3b8827;
+    border-radius: 10px;
+    font-size: 35px;
+    width: 450px;
+}
+
+.compras{
+   text-align: center;
+   margin: 260px;
+   font-size: 35px;
+
+}
+
+.ca1{
+    background-color: rgb(53, 44, 44);
+    border-radius: 20px;
+    width: 450px;
+}
+
+.ca2{
+    background-color: rgb(53, 44, 44);
+    border-radius: 20px;
+}
+
+.textos1{
+    color: rgb(141, 123, 123);
+}
